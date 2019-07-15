@@ -1,1 +1,2 @@
-This is DApp programming code.
+ERC20 token contract solidity code
+
